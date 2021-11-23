@@ -1,0 +1,23 @@
+{
+  "name": "quicktools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch-zgh-1993/quickTools.git"
+  },
+  "author": "zgh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch-zgh-1993/quickTools/issues"
+  },
+  "homepage": "https://github.com/ch-zgh-1993/quickTools#readme",
+  "dependencies": {
+    "node-monkey": "^1.1.3",
+    "node-xlsx": "^0.17.2"
+  }
+}
